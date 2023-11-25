@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Facebook @ Zianni Transou
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: This year I started Doctor Who and something broke inside of me from all of the companions leaving. 
+One of my favorite links from my Data Curation class topics is [Library Carpentry](https://github.com/LibraryCarpentry/lc-data-intro-archives).
 -->
